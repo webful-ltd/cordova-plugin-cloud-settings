@@ -40,7 +40,7 @@ interface CloudSettings {
         settings: object,
         successCallback: (savedSettings: object) => void,
         errorCallback: (error: string) => void,
-        overwrite: boolean = false
+        overwrite?: boolean
     ) => void;
 
     /**
