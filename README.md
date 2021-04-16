@@ -13,7 +13,6 @@ A Cordova plugin for Android & iOS to persist user settings in cloud storage acr
   - [iOS](#ios)
 - [Installation](#installation)
   - [Install the plugin](#install-the-plugin)
-  - [Remote build environments](#remote-build-environments)
 - [Usage lifecycle](#usage-lifecycle)
 - [API](#api)
   - [`exists()`](#exists)
